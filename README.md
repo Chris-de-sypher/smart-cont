@@ -1,0 +1,2 @@
+# smart-cont
+void {}
